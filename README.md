@@ -1,2 +1,2 @@
-# VitalTec
-Nuestro proyecto consiste en el desarrollo de una aplicación móvil diseñada especialmente para adultos mayores, cuyo objetivo es mejorar su bienestar y autonomía. La aplicación funcionará como un recordatorio inteligente para medicamentos y actividades de cuidado personal, ayudando a prevenir olvidos que puedan afectar su salud.
+# Revive
+Nuestra app se llama Revive y está enfocada en el ODS 12, consumo y producción responsables. Es una app donde las personas pueden publicar objetos que ya no usan, y otros pueden comprarlos, intercambiarlos o enviarlos a reparación con talleres locales. Para evaluar el estado de los productos se subirán fotos y sugerir si conviene venderlos, repararlos o donarlos. Además, muestra el impacto ambiental positivo de cada acción, como la reducción de CO₂ con esto ayudamos a reducir basura, fomentar el consumo responsable y apoyar a pequeños reparadores locales.
